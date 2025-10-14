@@ -195,3 +195,5 @@ __marimo__/
 
 # Misc
 *.csv
+stock_ticker_fetcher.py
+*.txt
