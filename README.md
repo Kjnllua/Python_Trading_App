@@ -50,3 +50,4 @@ git clone https://github.com/Kjnllua/Python_Trading_App.git
 cd Python_Trading_App
 # install dependencies
 poetry install   # or pip install …
+```
