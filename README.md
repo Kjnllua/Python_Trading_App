@@ -1,6 +1,6 @@
 # Python Trading App
 
-**Python Trading App** is a modular and extensible Python framework designed for algorithmic trading, data-analysis and automation of trading workflows. It demonstrates my passion for bridging data science, automation and financial markets — a key asset for a Data & AI Solutions Intern role.
+**Python Trading App** is a modular and extensible Python framework designed for algorithmic trading, data-analysis and automation of trading workflows. It demonstrates my passion for bridging data science, automation and financial markets 
 
 ## 🚀 Project Overview
 
