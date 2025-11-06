@@ -12,7 +12,7 @@ This project showcases how to leverage Python for trading-related tasks includin
 - Scheduled workflows: the `scheduler.py` enables periodic tasks (e.g., data refresh, trade evaluation) illustrating workflow automation.  
 - Ticker management: `tickers.csv` enables management of instruments being tracked — demonstrating data-driven design.  
 - PyProject/Poetry setup: `pyproject.toml` signals adoption of modern Python packaging and dependency management.  
-- Clear separation of logic, scheduler, configuration – ready for extension into AI/ML modules.
+- Clear separation of logic, scheduler, configuration 
 
 ## 🧠 Technical Stack
 
